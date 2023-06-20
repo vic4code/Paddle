@@ -37,4 +37,5 @@ __all__ = [  # noqa
     'Momentum',
     'Lamb',
     'LBFGS',
+    'SAM',
 ]
